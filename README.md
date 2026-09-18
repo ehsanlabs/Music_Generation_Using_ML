@@ -1,4 +1,4 @@
-# 🎵 Music Generation with AI (Task 3)
+# 🎵 Music Generation with AI
 
 An AI that composes new music! A deep **LSTM network** is trained on the classic **Nottingham folk-tunes MIDI dataset** and then generates brand-new note sequences, saved as playable MIDI files. Built for the **  Artificial Intelligence Internship**.
 
