@@ -1,6 +1,6 @@
-# 🎵 CodeAlpha — Music Generation with AI (Task 3)
+# 🎵 Music Generation with AI (Task 3)
 
-An AI that composes new music! A deep **LSTM network** is trained on the classic **Nottingham folk-tunes MIDI dataset** and then generates brand-new note sequences, saved as playable MIDI files. Built for the **CodeAlpha Artificial Intelligence Internship**.
+An AI that composes new music! A deep **LSTM network** is trained on the classic **Nottingham folk-tunes MIDI dataset** and then generates brand-new note sequences, saved as playable MIDI files. Built for the **  Artificial Intelligence Internship**.
 
 ## ✨ Features
 
@@ -21,7 +21,7 @@ An AI that composes new music! A deep **LSTM network** is trained on the classic
 ## 📂 Project Structure
 
 ```
-CodeAlpha_MusicGeneration/
+ _MusicGeneration/
 ├── config.py         # All settings in one place
 ├── preprocess.py     # Step 1: MIDI -> note/chord token sequences (notes.pkl)
 ├── train.py          # Step 2: Train the LSTM model
@@ -77,4 +77,4 @@ The model reads a sliding window of 40 notes/chords and learns to predict the ne
 
 ---
 
-*CodeAlpha AI Internship — Task 3 | Repository: `CodeAlpha_MusicGeneration`*
+*  AI Internship — Task 3 | Repository: ` _MusicGeneration`*
